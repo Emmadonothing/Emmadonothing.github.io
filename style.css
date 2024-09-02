@@ -1,0 +1,32 @@
+/* Importer la police "Poppins" de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* Style pour le corps de la page */
+body {
+    background-color: #00A19B; /* Fond bleu (Tiffany Green) */
+    color: #FFFFFF; /* Texte blanc */
+    font-family: 'Poppins', sans-serif; /* Police stylée */
+    text-align: center; /* Centrer le texte */
+    margin: 0;
+    padding: 20px; /* Espacement intérieur */
+}
+
+/* Style pour les titres (h1) */
+h1 {
+    font-size: 30px;
+    color: #000000; /* Noir pour le titre */
+    text-align: center;
+}
+
+/* Style pour les paragraphes (p) */
+p {
+    font-size: 20px;
+    text-align: center; /* Centrer le texte des paragraphes */
+    color: #FFFFFF; /* Texte blanc pour les paragraphes */
+}
+
+/* Style pour l'image */
+img {
+    margin-top: 20px; /* Espacement au-dessus de l'image */
+    border: 5px solid #565F64; /* Bordure en gris foncé autour de l'image */
+}
